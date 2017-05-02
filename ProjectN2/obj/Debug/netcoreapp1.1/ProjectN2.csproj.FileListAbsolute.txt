@@ -1,0 +1,10 @@
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\bin\Debug\netcoreapp1.1\ProjectN2.deps.json
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\bin\Debug\netcoreapp1.1\ProjectN2.runtimeconfig.json
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\bin\Debug\netcoreapp1.1\ProjectN2.runtimeconfig.dev.json
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\bin\Debug\netcoreapp1.1\ProjectN2.dll
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\bin\Debug\netcoreapp1.1\ProjectN2.pdb
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\obj\Debug\netcoreapp1.1\ProjectN2.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\obj\Debug\netcoreapp1.1\ProjectN2.AssemblyInfo.cs
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\obj\Debug\netcoreapp1.1\ProjectN2.dll
+c:\users\joe\documents\visual studio 2017\Projects\ProjectN2\ProjectN2\obj\Debug\netcoreapp1.1\ProjectN2.pdb
